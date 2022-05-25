@@ -28,12 +28,6 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Expected behaviour
-      description: A concise description of what you expected to happen.
-    validations:
-      required: true
-  - type: textarea
-    attributes:
       label: Environment
       description: If relevant to the bug, please share details about your environment.
       value: |
