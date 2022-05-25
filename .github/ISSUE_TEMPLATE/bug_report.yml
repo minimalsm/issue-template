@@ -45,6 +45,11 @@ body:
         - Version: [e.g. 22]
   - type: textarea
     attributes:
+      label: Additional context
+      description: Anything else you'd like to share about this issue?
+      placeholder: Add any other context about the problem here.
+  - type: textarea
+    attributes:
       label: Want to contribute? 👋
       description: Please leave a comment here if you'd like to work on this issue, otherwise leave as the default message.
       value: |
