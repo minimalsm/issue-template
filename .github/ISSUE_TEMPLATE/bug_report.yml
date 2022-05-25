@@ -52,11 +52,3 @@ body:
       placeholder: Be as precise as you can. Feel free to share screenshots, videos, or data from the devtools of your browser.
     validations:
       required: true
-  - type: textarea
-    attributes:
-      label: Want to contribute? 👋
-      description: Please leave a comment here if you'd like to work on this issue, otherwise leave as the default message.
-      value: |
-        We love contributions from the Ethereum community! Please comment on an issue if you're interested in helping out with a PR.
-    validations:
-      required: true
